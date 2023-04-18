@@ -2,7 +2,7 @@ const Subject = require("../models/subject");
 
 const getAllSubjectsStatic = async (req, res) => {
   const subjects = await Subject.find({});
-  res.status(200).json({ subjects, nbHits: subjects.length });
+  res.status(200).json({ subjects });
 };
 
 const getAllSubjects = async (req, res) => {
@@ -13,7 +13,7 @@ const getAllSubjects = async (req, res) => {
   }
   try {
     const subjects = await Subject.find(query);
-    res.status(200).json({ subjects, nbHits: subjects.length });
+    res.status(200).json({ subjects });
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
@@ -35,7 +35,7 @@ const getSingleSubjectTopics = async (req, res) => {
   try {
     const subject = await Subject.findOne({ _id: subjectId });
     const topics = subject.topics;
-    res.status(200).json({ topics, nbHits: topics.length });
+    res.status(200).json({ topics });
   } catch (error) {
     console.log(error);
     res.status(500).json({ message: "Server Error" });
