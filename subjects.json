@@ -4,58 +4,38 @@
     "topics": [
       {
         "title": "Algebra",
-        "videoUrl": "https://www.youtube.com/watch?v=JkVdP-e9BCo",
+        "videoUrl": "https://www.youtube.com/embed/JkVdP-e9BCo",
         "description": "Learn the basics of algebra, including variables, equations, and systems of equations."
       },
       {
         "title": "Geometry",
-        "videoUrl": "https://www.youtube.com/watch?v=HYAgJN3x4GA",
+        "videoUrl": "https://www.youtube.com/embed/HYAgJN3x4GA",
         "description": "Discover the world of shapes and their properties, including angles, lines, and polygons."
       },
       {
         "title": "Calculus",
-        "videoUrl": "https://www.youtube.com/watch?v=ZG1Ge3dwHEw",
+        "videoUrl": "https://www.youtube.com/embed/ZG1Ge3dwHEw",
         "description": "Take your math skills to the next level with calculus, covering limits, derivatives, and integrals."
       }
     ]
   },
   {
-    "name": "English Language",
+    "name": "Programming",
     "topics": [
       {
-        "title": "Grammar",
-        "videoUrl": "https://www.youtube.com/watch?v=ZV7dLU0qwxE",
-        "description": "Learn the rules of English grammar, including parts of speech, verb tenses, and sentence structure."
+        "title": "JavaScript",
+        "videoUrl": "https://www.youtube.com/embed/PkZNo7MFNFg",
+        "description": "Learn the programming language of the web, including data types, functions, and control flow."
       },
       {
-        "title": "Reading Comprehension",
-        "videoUrl": "https://www.youtube.com/watch?v=XRfQoPwNwHU",
-        "description": "Improve your reading skills by understanding vocabulary, context, and main ideas."
+        "title": "Python",
+        "videoUrl": "https://www.youtube.com/embed/_uQrJ0TkZlc",
+        "description": "Explore the versatile and easy-to-learn programming language, including data structures, functions, and modules."
       },
       {
-        "title": "Writing",
-        "videoUrl": "https://www.youtube.com/watch?v=0k4pXwmisYQ",
-        "description": "Learn the art of writing, including style, organization, and audience."
-      }
-    ]
-  },
-  {
-    "name": "Biology",
-    "topics": [
-      {
-        "title": "Cell Biology",
-        "videoUrl": "https://www.youtube.com/watch?v=URUJD5NEXC8",
-        "description": "Learn about the basic structure and function of cells, including cell membranes, organelles, and the cytoskeleton."
-      },
-      {
-        "title": "Genetics",
-        "videoUrl": "https://www.youtube.com/watch?v=7JY1U72uFjE",
-        "description": "Understand the principles of genetics, including DNA, chromosomes, and genetic disorders."
-      },
-      {
-        "title": "Ecology",
-        "videoUrl": "https://www.youtube.com/watch?v=FZ3Ety_Uoco",
-        "description": "Explore the interactions between organisms and their environment, including ecosystems, food chains, and biomes."
+        "title": "Java",
+        "videoUrl": "https://www.youtube.com/embed/eIrMbAQSU34",
+        "description": "Get a solid foundation in object-oriented programming with Java, including classes, objects, and inheritance."
       }
     ]
   },
@@ -64,18 +44,38 @@
     "topics": [
       {
         "title": "Mechanics",
-        "videoUrl": "https://www.youtube.com/watch?v=1vV_bRb-mRI",
+        "videoUrl": "https://www.youtube.com/embed/1vV_bRb-mRI",
         "description": "Learn about the laws of motion, forces, energy, and momentum."
       },
       {
         "title": "Thermodynamics",
-        "videoUrl": "https://www.youtube.com/watch?v=0L1kvLtwyYY",
+        "videoUrl": "https://www.youtube.com/embed/0L1kvLtwyYY",
         "description": "Understand the concepts of temperature, heat, and energy transfer, including the laws of thermodynamics."
       },
       {
         "title": "Electromagnetism",
-        "videoUrl": "https://www.youtube.com/watch?v=GXl1fvnY63Y",
-        "description": "Understand the concepts of electromagnetism"
+        "videoUrl": "https://www.youtube.com/embed/GXl1fvnY63Y",
+        "description": "Explore the fundamental principles of electricity and magnetism, including electric fields, magnetic fields, and electromagnetic waves."
+      }
+    ]
+  },
+  {
+    "name": "Art History",
+    "topics": [
+      {
+        "title": "Renaissance Art",
+        "videoUrl": "https://www.youtube.com/embed/JNojKtvdFgY",
+        "description": "Explore the art and culture of the Renaissance period, including works by Leonardo da Vinci, Michelangelo, and Raphael."
+      },
+      {
+        "title": "Impressionism",
+        "videoUrl": "https://www.youtube.com/embed/KaCLXyU0jKg",
+        "description": "Learn about the art movement that changed the way we see the world, including works by Claude Monet, Pierre-Auguste Renoir, and Edgar Degas."
+      },
+      {
+        "title": "Modern Art",
+        "videoUrl": "https://www.youtube.com/embed/xIOoYiOVvQ",
+        "description": "Learn about the art movement that changed the way we see the world, including works by Claude Monet, Pierre-Auguste Renoir, and Edgar Degas."
       }
     ]
   }
